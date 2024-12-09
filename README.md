@@ -1,3 +1,5 @@
+REST API for basic banking apps using Spring boot and MySQL
+
 GET - getAccountById
 
 ![image](https://github.com/user-attachments/assets/213159c0-eba5-4d46-a3e8-289c04a13acf)
